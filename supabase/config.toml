@@ -1,0 +1,7 @@
+project_id = "mtgvaasoewifdptlvmah"
+
+[functions.index-document]
+verify_jwt = false
+
+[functions.search]
+verify_jwt = false
